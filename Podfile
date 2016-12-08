@@ -9,3 +9,8 @@ target 'CocoaMQTT OSX' do
     pod 'CocoaAsyncSocket'
     pod 'MSWeakTimer'
 end
+
+target 'CocoaMQTT tvOS' do
+    pod 'CocoaAsyncSocket'
+    pod 'MSWeakTimer'
+end
